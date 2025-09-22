@@ -2,7 +2,7 @@
 const target = document.getElementById("level");
 
 let level = 0;
-lwt current = target;
+let current = target;
 
 while(current) {
 	level++;
